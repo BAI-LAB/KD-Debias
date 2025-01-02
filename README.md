@@ -14,8 +14,6 @@ This repository contains the code for the paper "Invariant Debiasing Learning fo
    - *Yahoo!R3*: https://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=3
    
    - *COAT*: https://www.cs.cornell.edu/schnabts/mnar/
-   
-   - *MIND*: https://paperswithcode.com/dataset/mind
 
 2. **Configure Datasets Paths**:
    - Configure local datasets paths in `global_config.py`.
@@ -23,7 +21,7 @@ This repository contains the code for the paper "Invariant Debiasing Learning fo
 ### STEP 2: Run the Models
 
 1. **Configure local paths for results saving in `global_config.py`**
-2. **Run `main_xxx.py` to train models on datastes**
+2. **Run `main_xxx.py` to train models**
 
 ## Citation
 
