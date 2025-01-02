@@ -28,16 +28,14 @@ This repository contains the code for the paper "Invariant Debiasing Learning fo
 If you use this project in your research, please cite the following paper:
 
 ```
-@article{BAI2025104028,
-title = {Invariant debiasing learning for recommendation via biased imputation},
-journal = {Information Processing & Management},
-volume = {62},
-number = {3},
-pages = {104028},
-year = {2025},
-issn = {0306-4573},
-doi = {https://doi.org/10.1016/j.ipm.2024.104028},
-url = {https://www.sciencedirect.com/science/article/pii/S030645732400387X},
-author = {Ting Bai and Weijie Chen and Cheng Yang and Chuan Shi},
-} 
+@article{bai2025invariant,
+  title={Invariant debiasing learning for recommendation via biased imputation},
+  author={Bai, Ting and Chen, Weijie and Yang, Cheng and Shi, Chuan},
+  journal={Information Processing \& Management},
+  volume={62},
+  number={3},
+  pages={104028},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
